@@ -1,5 +1,5 @@
 
-<h1 align="center">Sequis Social Network</h1>
+<h1 align="center">Haioo Cart</h1>
 
 <div align="center">
 
@@ -21,12 +21,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-For a social network application, friendship management is a common feature. The application will need features like friend request, approve or reject friend request, list friend requests, list friends, block friend, common friend between users.
+Haioo Cart Service
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-
 
 ### Installing
 
@@ -51,7 +48,7 @@ make testing
 
 ### Scenario Unit Test
 
-The scenarios that have been created in the unit test include positive scenarios and negative scenarios, such as successfully requesting API endpoints and validating errors such as incorrect email input that does not match the email format, if the data "requestor" and data "to" are the same it will return an error, and if an incoming request is not properly completed.
+The scenarios that have been created in the unit test include positive scenarios and negative scenarios, such as successfully requesting API endpoints and validating errors such as incorrect request data input, if the data product already in cart it will just update the quantity, and if an incoming request is not properly completed.
 
 ## 🎈 Usage <a name="usage"></a>
 
