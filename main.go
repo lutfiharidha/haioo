@@ -5,9 +5,9 @@ import (
 	"github.com/lutfiharidha/haioo/database"
 )
 
-// @title           haioo
+// @title           Haioo Cart Service
 // @version         1.0
-// @description     For a social network application, friendship management is a common feature. The application will need features like friend request, approve or reject friend request, list friend requests, list friends, block friend, common friend between user.
+// @description     Haioo Cart Service
 // @host      		localhost:8081
 // @in                          header
 func main() {
