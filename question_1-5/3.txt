@@ -1,0 +1,1 @@
+kesalahan pada script Dockerfile tersebut terletak pada keyword LISTEN, seharusnya keyword yang benar untuk mem-publish port adalah EXSPOSE

@@ -1,0 +1,1 @@
+Microservices sebuah arsitektur yang memungkinkan untuk membagi aplikasi ke dalam satuan sistem yang lebih kecil berdasarkan fungsinya, sehingga dapat memudahkan developer untuk men-develop atau me-maintance sebuah aplikasi, dan dapat membagi beban resource sesuai kebutuhan.

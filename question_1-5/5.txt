@@ -1,0 +1,1 @@
+query yang penggunaannya tanpa index ketika pencarian data akan mencari semua data sedangkan query yang menggunakan index akan langsung mencari dimana lokasi index itu berada sehingga query lebih cepat.
