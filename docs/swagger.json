@@ -1,8 +1,8 @@
 {
     "swagger": "2.0",
     "info": {
-        "description": "For a social network application, friendship management is a common feature. The application will need features like friend request, approve or reject friend request, list friend requests, list friends, block friend, common friend between user.",
-        "title": "haioo",
+        "description": "Haioo Cart Service.",
+        "title": "Haioo",
         "contact": {},
         "version": "1.0"
     },
